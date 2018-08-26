@@ -1,0 +1,14 @@
+.row {
+  width: 100%;
+}
+.column {
+  float: left;
+}
+.column-75{
+  width: 75%;
+  background-color: lightblue;
+}
+.column-25{
+  width: 25%;
+  background-color: lightgreen;
+}
